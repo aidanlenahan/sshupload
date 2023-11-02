@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/aidanlenahan/docs/main/hacking/password-cracking/password-complexity.txt
